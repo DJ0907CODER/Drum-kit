@@ -15,7 +15,7 @@ Click the drum buttons or press the keyboard keys to play different sounds.
 - Fun project to learn JS interactivity
 
 ### 🚀 Live Demo
-👉 [Click here to play!](https://dj0907coder.github.io/Drum-Kit/)
+👉 [Click here to play!](https://dj0907coder.github.io/Drum-kit/)
 
 
 Made with 💙 by Jaideep
